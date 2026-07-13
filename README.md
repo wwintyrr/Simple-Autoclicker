@@ -7,14 +7,14 @@ Built with PySide6.
 
 Autoclicker: self explanatory.
 Profile System: set profiles on what action you want to do. (WIP)
-Advanced Customization: set the delay, repeat amount, and much more. (WIP)
+Advanced Customization: set the delay, repeat amount, and much more.
 
 ## Install
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com
-cd your-repo-name
+git clone https://github.com/wwintyrr/Simple-Autoclicker
+cd Simple-Autoclicker
 ```
 
 ### 2. Create .venv:
