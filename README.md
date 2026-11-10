@@ -1,7 +1,7 @@
 # Autoclicker
 
 A simple, easy to use autoclicker that I made for myself. Feel free to use it or redistribute as mentioned in the license. 
-Built with PySide6.
+Built with Python and PySide6 (Qt). To download it, follow the install steps or download a stable release from the releases section.
 
 ## Features
 

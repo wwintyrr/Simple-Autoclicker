@@ -367,7 +367,7 @@ class MainWindow(QMainWindow):
 
     def _create_main_tab(self):
         tab = QWidget()
-        layout = QVBoxLayout(tab)
+        layout = QHBoxLayout(tab)
         layout.setAlignment(Qt.AlignmentFlag.AlignBottom)
         layout.setContentsMargins(4, 4, 4, 4)
 
@@ -382,8 +382,8 @@ class MainWindow(QMainWindow):
         button.setSizePolicy(QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Expanding)
         self.start_button = button
 
-        layout.addWidget(button, 6)
         layout.addWidget(label, 4)
+        layout.addWidget(button, 6)
 
         return tab
     
