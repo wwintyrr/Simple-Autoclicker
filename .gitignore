@@ -1,0 +1,11 @@
+# .gitignore
+.venv/
+venv/
+.vscode/
+vscode/
+build/
+dist/
+main.spec
+__pycache__/
+*.pyc
+settings.ini
