@@ -3,16 +3,16 @@
 A simple, easy to use autoclicker that I made for myself. Feel free to use it or redistribute as mentioned in the license. 
 Built with Python and PySide6 (Qt). To download it, follow the install steps or download a stable release from the releases section.
 
-## !!DISCLAIMER!!
+### !! DISCLAIMER !!
 
 This autoclicker doesnt work on mac (and havent tested linux) due to a myriad of issues that i will eventually fix when i feel like it. 
 Also the release i posted is meh, better releases will also eventually get posted.
 
 ## Features
 
-Autoclicker: self explanatory.
-Profile System: set profiles on what action you want to do. (WIP)
-Advanced Customization: set the delay, repeat amount, and much more.
+Auto Clicker - self explanatory.\
+Profile System - set profiles on what action you want to do. (WIP)\
+Advanced Customization - set the delay, repeat amount, and much more.
 
 ## Install
 
