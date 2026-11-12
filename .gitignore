@@ -8,4 +8,3 @@ dist/
 main.spec
 __pycache__/
 *.pyc
-settings.ini
